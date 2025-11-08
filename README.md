@@ -1,4 +1,9 @@
-## Hi there 👋
+# About me👋
+#Third-year Computer Science student eager to learn and grow.
+
+ 🔭 I’m currently working on: GETT
+ 
+📫 How to reach me: www.linkedin.com/in/arielle-malka-student-computer-science
 
 <!--
 **ariellemalka/ariellemalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
