@@ -1,5 +1,6 @@
 # About me👋
 #Third-year Computer Science student eager to learn and grow.
+I am 25 years old and currently studying at HIT in Holon.
 
  🔭 I’m currently working on: GETT
  
